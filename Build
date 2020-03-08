@@ -1,0 +1,28 @@
+About
+The Corne Keyboard is a split ergonomic design that features a 3x6 column staggered layout with a three key thumb cluster. The Corne layout has many distinguishing features that set it apart from other ergonomic keyboards. The small layout keeps all keys within one unit of the home row. The keyboard also includes footprints for RGB lighting under each switch as well as 6 downward facing LEDs for underglow lighting. The PCBs also include footprints for OLED screens. By default, the screens display the current layer and information about recently pressed keys.
+
+Hardware reqs
+2   |   PCB
+2	|   TRRS Jack
+2	|   [Reset Switches](https://www.littlekeyboards.com/collections/catalog/products/reset-switch)
+42	|   [Surface Mount Diodes]()
+42	|   [Kailh MX Sockets](https://www.littlekeyboards.com/collections/catalog/products/kailh-mx-hotswap-sockets)
+2   |   [OLED Screen](https://www.littlekeyboards.com/collections/pcb-kits/products/oled-screen) (optional)
+54  |   [RGB LED (Included with Assembled PCBs)](https://www.littlekeyboards.com/collections/pcb-kits/products/ws2812b-3535-led) (optional)
+2   |   [Pro Micro or equivalent]()
+4   |   [Pro Micro socketing kits](https://www.littlekeyboards.com/collections/catalog/products/mill-max-ultra-low-profile-sockets)
+1   |   [Corne Keyboard Case or plates]()
+42  |   [Kailh Choc switches]()
+42  |   [Keycaps]()
+1   |   [TRRS Cable]()
+1   |   [USB Cable]()
+
+Soldering guides
+Keeb specific guide
+* [Corne Github Repository](https://github.com/foostan/crkbd)
+Pro Micro Socketing guide
+* http://www.40percent.club/p/socketing-pro-micro.html
+
+Programming
+* QMK key mappings and firmware can be found [here](https://github.com/qmk/qmk_firmware/tree/master/keyboards/crkbd)
+* 
