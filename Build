@@ -3,8 +3,8 @@ The Corne Keyboard is a split ergonomic design that features a 3x6 column stagge
 
 Hardware reqs
 2   |   PCB
-2	|   TRRS Jack
-2	|   [Reset Switches](https://www.littlekeyboards.com/collections/catalog/products/reset-switch)
+2	  |   TRRS Jack
+2	  |   [Reset Switches](https://www.littlekeyboards.com/collections/catalog/products/reset-switch)
 42	|   [Surface Mount Diodes]()
 42	|   [Kailh MX Sockets](https://www.littlekeyboards.com/collections/catalog/products/kailh-mx-hotswap-sockets)
 2   |   [OLED Screen](https://www.littlekeyboards.com/collections/pcb-kits/products/oled-screen) (optional)
